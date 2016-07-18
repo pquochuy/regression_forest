@@ -1,4 +1,5 @@
-# regression_forest
+# Random regression forests for audio event detection
+
 This package implement the random regression forest algorithm for audio event detection in continuous streams. This algorithm was used in our following works:
 
 [1]. Huy Phan, Marco Maass, Radoslaw Mazur, and Alfred Mertins, Acoustic Event Detection and Localization with Regression Forests, Proc. 15th Annual Conference of the International Speech Communication Association (INTERSPEECH 2014), Singapore, pp. 2524-2528, September 2014
