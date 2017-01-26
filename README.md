@@ -15,4 +15,6 @@ https://github.com/pquochuy/Audio-Event-Features
 
 The script main_forest.m gives a brief tutorial how to use the package for training and testing. If you got problems or questions regarding to this package, please email me at phan{at}isp.uni-luebeck.de
 
-If you use this package for your work, please cite the papers accordingly.
+If you use this package for your work, please cite the following paper:
+
+Huy Phan, Marco Maaß, Radoslaw Mazur, and Alfred Mertins, Random Regression Forests for Acoustic Event Detection and Classification, IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), vol. 23, no. 1, pp. 20-31, January 2015
